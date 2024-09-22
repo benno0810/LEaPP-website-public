@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LEaPPLabHomepage/static/css/main.18180553.css",
+    "main.js": "/LEaPPLabHomepage/static/js/main.4d36a5ff.js",
+    "static/js/453.f180bf4c.chunk.js": "/LEaPPLabHomepage/static/js/453.f180bf4c.chunk.js",
+    "static/media/XINJIE-CHEN.png": "/LEaPPLabHomepage/static/media/XINJIE-CHEN.b7448cddf8e14c64c707.png",
+    "static/media/hero-bg.jpg": "/LEaPPLabHomepage/static/media/hero-bg.feb1133cf4f50fde7d96.jpg",
+    "index.html": "/LEaPPLabHomepage/index.html",
+    "main.18180553.css.map": "/LEaPPLabHomepage/static/css/main.18180553.css.map",
+    "main.4d36a5ff.js.map": "/LEaPPLabHomepage/static/js/main.4d36a5ff.js.map",
+    "453.f180bf4c.chunk.js.map": "/LEaPPLabHomepage/static/js/453.f180bf4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18180553.css",
+    "static/js/main.4d36a5ff.js"
+  ]
+}
