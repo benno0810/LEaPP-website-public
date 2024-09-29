@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/LEaPP-website-public/static/css/main.a0eda366.css",
-    "main.js": "/LEaPP-website-public/static/js/main.5186e97c.js",
+    "main.css": "/LEaPP-website-public/static/css/main.fb3380a3.css",
+    "main.js": "/LEaPP-website-public/static/js/main.f546af5a.js",
     "static/js/453.f180bf4c.chunk.js": "/LEaPP-website-public/static/js/453.f180bf4c.chunk.js",
     "static/media/hero-bg.jpg": "/LEaPP-website-public/static/media/hero-bg.feb1133cf4f50fde7d96.jpg",
+    "static/media/LEAPP_LOGO.png": "/LEaPP-website-public/static/media/LEAPP_LOGO.0159de88103f9a24865b.png",
     "static/media/Xinjie-Chen-New-Large.png": "/LEaPP-website-public/static/media/Xinjie-Chen-New-Large.c60a1969088272f97f4e.png",
     "static/media/Yixin-Wang-large.jpg": "/LEaPP-website-public/static/media/Yixin-Wang-large.a593efab3977522728a0.jpg",
     "static/media/Charlott-Hon-large.jpg": "/LEaPP-website-public/static/media/Charlott-Hon-large.9a83d759754ded3fdf68.jpg",
     "static/media/Maisie-Glofcheski-large.jpg": "/LEaPP-website-public/static/media/Maisie-Glofcheski-large.ba3eaf84dae9c9110360.jpg",
     "static/media/Zhenyi-Zhou-medium.jpg": "/LEaPP-website-public/static/media/Zhenyi-Zhou-medium.0c5a17cd1ffb1de87cdb.jpg",
     "index.html": "/LEaPP-website-public/index.html",
-    "main.a0eda366.css.map": "/LEaPP-website-public/static/css/main.a0eda366.css.map",
-    "main.5186e97c.js.map": "/LEaPP-website-public/static/js/main.5186e97c.js.map",
+    "main.fb3380a3.css.map": "/LEaPP-website-public/static/css/main.fb3380a3.css.map",
+    "main.f546af5a.js.map": "/LEaPP-website-public/static/js/main.f546af5a.js.map",
     "453.f180bf4c.chunk.js.map": "/LEaPP-website-public/static/js/453.f180bf4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0eda366.css",
-    "static/js/main.5186e97c.js"
+    "static/css/main.fb3380a3.css",
+    "static/js/main.f546af5a.js"
   ]
 }
