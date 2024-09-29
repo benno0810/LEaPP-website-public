@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.61557d99.css",
-    "main.js": "/static/js/main.10ad8f87.js",
+    "main.css": "/static/css/main.59afabb1.css",
+    "main.js": "/static/js/main.654a8a33.js",
     "static/js/453.f180bf4c.chunk.js": "/static/js/453.f180bf4c.chunk.js",
     "static/media/hero-bg.jpg": "/static/media/hero-bg.feb1133cf4f50fde7d96.jpg",
-    "static/media/LEAPP_LOGO.png": "/static/media/LEAPP_LOGO.0159de88103f9a24865b.png",
     "static/media/Xinjie-Chen-New-Large.png": "/static/media/Xinjie-Chen-New-Large.c60a1969088272f97f4e.png",
     "static/media/Yixin-Wang-large.jpg": "/static/media/Yixin-Wang-large.a593efab3977522728a0.jpg",
     "static/media/Charlott-Hon-large.jpg": "/static/media/Charlott-Hon-large.9a83d759754ded3fdf68.jpg",
+    "static/media/CUHK_PURPLE_WHITE_LG.PNG": "/static/media/CUHK_PURPLE_WHITE_LG.8286becb5eeba1850fb6.PNG",
     "static/media/Maisie-Glofcheski-large.jpg": "/static/media/Maisie-Glofcheski-large.ba3eaf84dae9c9110360.jpg",
     "static/media/Zhenyi-Zhou-medium.jpg": "/static/media/Zhenyi-Zhou-medium.0c5a17cd1ffb1de87cdb.jpg",
     "index.html": "/index.html",
-    "main.61557d99.css.map": "/static/css/main.61557d99.css.map",
-    "main.10ad8f87.js.map": "/static/js/main.10ad8f87.js.map",
+    "main.59afabb1.css.map": "/static/css/main.59afabb1.css.map",
+    "main.654a8a33.js.map": "/static/js/main.654a8a33.js.map",
     "453.f180bf4c.chunk.js.map": "/static/js/453.f180bf4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61557d99.css",
-    "static/js/main.10ad8f87.js"
+    "static/css/main.59afabb1.css",
+    "static/js/main.654a8a33.js"
   ]
 }
