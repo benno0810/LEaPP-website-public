@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1b2d8aa6.css",
-    "main.js": "/static/js/main.24f212f0.js",
+    "main.js": "/static/js/main.f9760477.js",
     "static/js/453.f180bf4c.chunk.js": "/static/js/453.f180bf4c.chunk.js",
     "static/media/hero-bg.jpg": "/static/media/hero-bg.feb1133cf4f50fde7d96.jpg",
+    "static/media/Kaman-Chin.JPG": "/static/media/Kaman-Chin.c4ae7f28d4877d11bb5e.JPG",
     "static/media/Xinjie-Chen-New-Large.png": "/static/media/Xinjie-Chen-New-Large.c60a1969088272f97f4e.png",
+    "static/media/Maisy-Wong.jpeg": "/static/media/Maisy-Wong.8e296685fcc447bb69ba.jpeg",
     "static/media/Yixin-Wang-large.jpg": "/static/media/Yixin-Wang-large.a593efab3977522728a0.jpg",
     "static/media/Charlott-Hon-large.jpg": "/static/media/Charlott-Hon-large.9a83d759754ded3fdf68.jpg",
     "static/media/CUHK_PURPLE_WHITE_LG.PNG": "/static/media/CUHK_PURPLE_WHITE_LG.8286becb5eeba1850fb6.PNG",
@@ -12,11 +14,11 @@
     "static/media/Zhenyi-Zhou-medium.jpg": "/static/media/Zhenyi-Zhou-medium.0c5a17cd1ffb1de87cdb.jpg",
     "index.html": "/index.html",
     "main.1b2d8aa6.css.map": "/static/css/main.1b2d8aa6.css.map",
-    "main.24f212f0.js.map": "/static/js/main.24f212f0.js.map",
+    "main.f9760477.js.map": "/static/js/main.f9760477.js.map",
     "453.f180bf4c.chunk.js.map": "/static/js/453.f180bf4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2d8aa6.css",
-    "static/js/main.24f212f0.js"
+    "static/js/main.f9760477.js"
   ]
 }
