@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1b2d8aa6.css",
-    "main.js": "/static/js/main.2a4d3e5a.js",
+    "main.js": "/static/js/main.1f10725d.js",
     "static/js/453.f180bf4c.chunk.js": "/static/js/453.f180bf4c.chunk.js",
     "static/media/hero-bg.jpg": "/static/media/hero-bg.feb1133cf4f50fde7d96.jpg",
-    "static/media/Clive-Lin.jpg": "/static/media/Clive-Lin.7e6f56ed24b736c59b78.jpg",
+    "static/media/Ocean-Mak.jpeg": "/static/media/Ocean-Mak.9a96960fa2b25dc1d5ba.jpeg",
+    "static/media/Clive-Lin.jpg": "/static/media/Clive-Lin.007984b78cfcba1c795b.jpg",
     "static/media/Kaman-Chin.JPG": "/static/media/Kaman-Chin.c4ae7f28d4877d11bb5e.JPG",
     "static/media/Xinjie-Chen-New-Large.png": "/static/media/Xinjie-Chen-New-Large.c60a1969088272f97f4e.png",
+    "static/media/Ziwei-Xiao.jpg": "/static/media/Ziwei-Xiao.23c2c35cd96abfb8468a.jpg",
+    "static/media/Karina-Chiang.png": "/static/media/Karina-Chiang.87580554ee0b057bbf9a.png",
     "static/media/Yeung_Tsz_Yat.jpg": "/static/media/Yeung_Tsz_Yat.c5f52963219fea641eb3.jpg",
+    "static/media/Nandini-Agarwal.jpeg": "/static/media/Nandini-Agarwal.5cd6a4ac919bce0a4e63.jpeg",
     "static/media/Maisy-Wong.jpeg": "/static/media/Maisy-Wong.8e296685fcc447bb69ba.jpeg",
     "static/media/Yixin-Wang-large.jpg": "/static/media/Yixin-Wang-large.a593efab3977522728a0.jpg",
     "static/media/Charlott-Hon-large.jpg": "/static/media/Charlott-Hon-large.9a83d759754ded3fdf68.jpg",
@@ -16,11 +20,11 @@
     "static/media/Zhenyi-Zhou-medium.jpg": "/static/media/Zhenyi-Zhou-medium.0c5a17cd1ffb1de87cdb.jpg",
     "index.html": "/index.html",
     "main.1b2d8aa6.css.map": "/static/css/main.1b2d8aa6.css.map",
-    "main.2a4d3e5a.js.map": "/static/js/main.2a4d3e5a.js.map",
+    "main.1f10725d.js.map": "/static/js/main.1f10725d.js.map",
     "453.f180bf4c.chunk.js.map": "/static/js/453.f180bf4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2d8aa6.css",
-    "static/js/main.2a4d3e5a.js"
+    "static/js/main.1f10725d.js"
   ]
 }
